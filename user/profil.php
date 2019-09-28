@@ -120,7 +120,7 @@
 	    </li>
 	    <li class="collection-item avatar">
 	      <i class="material-icons red circle">do_not_disturb_on</i>
-	      <span class="title">MIN 5 Point To Buy</span>
+	      <span class="title">MIN 5 Point To By</span>
 	      <p><em>19 Sept 2019</em>
 	      </p>
 	    </li>
